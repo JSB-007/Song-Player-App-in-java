@@ -1,4 +1,4 @@
-JavaSongPlayerApp is a Java-based application that demonstrates the basic concepts of object-oriented programming (OOPs) by implementing a simple song player with support for managing songs and albums. The app provides a command-line interface (CLI) for users to interact with their music library and perform basic operations such as adding songs, creating albums, and playing songs from albums.
+Song Player App is a Java-based application that demonstrates the basic concepts of object-oriented programming (OOPs) by implementing a simple song player with support for managing songs and albums. The app provides a command-line interface (CLI) for users to interact with their music library and perform basic operations such as adding songs, creating albums, and playing songs from albums.
 
 Features:
 
